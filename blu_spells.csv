@@ -1,0 +1,197 @@
+Spell,Description
+Reaving Wind,Reduces TP for enemies within range.
+Actinic Burst,Greatly lowers the accuracy of enemies within range for a brief period of time.
+Maelstrom,Deals water damage to enemies within range. Additional effect: STR Down.
+Mortal Ray,Inflicts Doom upon an enemy.
+Head Butt,"Damage varies with TP. Additional effect: ""Stun."""
+Healing Breeze,Restores HP for party members within area of effect.
+Warm-Up,Enhances accuracy and evasion.
+Scouring Spate,Deals water damage to enemies within range. Additional effect: Weakens attacks.
+Entomb,Deals earth damage to enemies within range. Additional effect: Petrification
+Bludgeon,Delivers a threefold attack. Accuracy varies with TP.
+Animating Wail,Increases attack speed.
+Body Slam,Delivers an area attack. Damage varies with TP.
+Venom Shell,Poisons enemies within range and gradually reduces their HP.
+Empty Thrash,Delivers an area attack. Accuracy varies with TP.
+Crashing Thunder,Deals lightning damage to enemies within range.
+Smite of Rage,Damage varies with TP.
+Spectral Floe,Deals ice damage to enemies within range. Additional effect: Terror
+Hecatomb Wave,Deals wind damage to enemies within a fan-shaped area originating from the caster. Additional effect: Blindness.
+Barrier Tusk,Reduces the amount of damage you take.
+Feather Tickle,Reduces an enemy's TP.
+Mysterious Light,Deals wind damage to enemies within range. Additional effect: Weight.
+Restoral,Restores the caster’s HP.
+Subduction,Deals wind damage to enemies within range. Additional effect: Weight.
+Gates of Hades,Deals fire damage to enemies within area of effect. Additional effect: Burn.
+Diffusion Ray,Deals light damage to enemies within a fan-shaped area originating from caster.
+Anvil Lightning,Deals lightning damage to enemies within range. Additional effect: Stun
+Magic Hammer,Steals an amount of enemy's MP equal to damage dealt. Ineffective against undead.
+Heavy Strike,Damage varies with TP.
+Sub-zero Smash,Additional Effect: Paralysis. Damage varies with TP.
+Blistering Roar,Enemies within an area of effect are frozen with fear.
+Magic Fruit,Restores HP for the target party member.
+Rail Cannon,Deals light damage to an enemy.
+Mind Blast,Deals lightning damage to an enemy. Additional effect: Paralysis.
+Tail Slap,"Delivers an area attack. Additional effect: ""Stun."" Damage varies with TP."
+Firespit,Deals fire damage to an enemy.
+Thrashing Assault,Delivers a fivefold attack. Damage varies with TP.
+Spinal Cleave,Accuracy varies with TP.
+Metallic Body,Absorbs a certain amount of damage from physical and magical attacks.
+Triumphant Roar,Enhances Attack.
+Seedspray,Delivers a threefold attack. Additional effect: Weakens defense. Chance of effect varies with TP.
+Nectarous Deluge,Deals water damage to enemies within range. Additional effect: Poison.
+Mandibular Bite,Damage varies with TP.
+Nature's Meditation,Enhances Attack.
+Quadratic Continuum,Delivers a fourfold attack. Damage varies with TP.
+Cold Wave,Deals ice damage that lowers Agility and gradually reduces HP of enemies within range.
+Amorphic Spikes,Delivers a fivefold attack. Damage varies with TP.
+Cimicine Discharge,Reduces the attack speed of enemies within range.
+Regeneration,Gradually restores HP.
+Searing Tempest,Deals fire damage to enemies within range. Additional effect: Burn
+Grand Slam,Delivers an area attack. Damage varies with TP.
+White Wind,Restores HP of all party members within the area of effect.
+Whirl of Rage,Delivers an area attack that stuns enemies. Damage varies with TP.
+Claw Cyclone,Damages enemies within area of effect with a twofold attack. Damage varies with TP.
+Diamondhide,"Gives party members within area of effect the effect of ""Stoneskin."""
+Auroral Drape,Silences and blinds enemies within range.
+Temporal Shift,Enemies within range are temporarily prevented from acting.
+Soporific,Puts all enemies within range to sleep.
+Reactor Cool,Enhances defense and covers you with magical ice spikes. Enemies that hit you take ice damage.
+Amplification,Enhances magic attack and magic defense.
+Vertical Cleave,Damage varies with TP.
+Feather Storm,Additional effect: Poison. Chance of effect varies with TP.
+Droning Whirlwind,Deals Wind damage to enemies within area of effect. Additional effect: Dispel.
+Silent Storm,Deals wind damage to enemies within range. Additional effect: Silence
+Blood Saber,Steals HP from enemies within range. Ineffective against undead.
+Death Scissors,Damage varies with TP.
+Battle Dance,Delivers an area attack. Additional effect: DEX Down. Duration of effect varies with TP.
+Foul Waters,Deals water damage to enemies in a fan-shaped area originating from the caster. Additional effect: Drown
+Tearing Gust,
+Heat Breath,Deals fire damage to enemies within a fan-shaped area originating from the caster.
+Flying Hip Press,Deals wind damage to enemies within range.
+Zephyr Mantle,Creates shadow images that each absorb a single attack directed at you.
+Charged Whisker,Deals lightning damage to enemies within area of effect.
+Wild Oats,Additional effect: Vitality Down. Duration of effect varies with TP.
+Filamented Hold,Reduces the attack speed of enemies within a fan-shaped area originating from the caster.
+Sprout Smack,Additional effect: Slow. Duration of effect varies with TP.
+Ice Break,"Deals ice damage to enemies within range. Additional Effect: ""Bind."""
+Hydro Shot,Additional effect: Enmity Down. Chance of effect varies with TP.
+Fantod,Enhances attack and magic attack.
+Power Attack,Deals critical damage. Chance of critical varies with TP.
+Refueling,Increases attack speed.
+Feather Barrier,Enhances evasion.
+Wild Carrot,Restores HP for the target party member.
+Barbed Crescent,Damage varies with TP. Additional effect: Accuracy Down.
+Foot Kick,Deals critical damage. Chance of critical hit varies with TP.
+Atra. Libations,Steals HP from enemies within range. Ineffective against undead.
+Memento Mori,Enhances magic attack
+Cruel Joke,Inflicts doom on enemies within range
+Frypan,"Delivers an area attack. Additional effect: ""Stun."" Accuracy varies with TP."
+Pinecone Bomb,Additional effect: sleep. Duration of effect varies with TP.
+Stinking Gas,Lowers Vitality of enemies within range.
+Blank Gaze,Removes one beneficial magic effect from an enemy.
+Thunder Breath,Deals thunder breath damage to enemies within a fan-shaped area originating from the caster.
+Retinal Glare,Deals light damage to enemies in a fan-shaped area originating from the caster. Additional effect: Flash.
+Goblin Rush,Delivers a threefold attack. Accuracy varies with TP.
+Sinker Drill,Delivers a fivefold attack. Damage varies with TP.
+Blood Drain,Steals an enemy's HP. Ineffective against undead.
+Plasma Charge,Covers you with magical lightning spikes. Enemies that hit you take lightning damage.
+Glutinous Dart,Damage Varies With TP
+Blinding Fulgor,Deals light damage to enemies within range. Additional effect: Flash
+O. Counterstance,Increases the caster's chance of countering.
+Ram Charge,Damage varies with TP.
+Vapor Spray,Deals water breath damage to enemies within a fan-shaped area originating from the caster.
+Pyric Bulwark,Resists physical damage.
+Sandspin,Deals earth damage to enemies within range. Additional effect: Accuracy Down.
+Frenetic Rip,Delivers a threefold attack. Damage varies with TP.
+Bomb Toss,Throws a bomb at an enemy.
+Bloodrake,Delivers a threefold attack. Damage varies with TP. Additional effect: HP Drain.
+Blitzstrahl,"Deals lightning damage to an enemy. Additional effect: ""Stun."""
+Enervation,Lowers the defense and magical defense of enemies within range.
+Cannonball,Damage varies with TP.
+Battery Charge,Gradually restores MP.
+Leafstorm,Deals wind damage to enemies within area of effect.
+Plenilune Embrace,Restores target party member's HP and enhances attack and magic attack..
+Polar Roar,Deals ice damage to enemies within range. Additional effect: Bind
+Cursed Sphere,Deals water damage to enemies within area of effect.
+Winds of Promyvion,Removes one detrimental magic effect for party members within area of effect.
+Queasyshroom,Additional Effect: Poison. Duration of effect varies with TP.
+Voracious Trunk,Steals one beneficial effect from an enemy.
+Wind Breath,Deals wind breath damage to enemies within a fan-shaped area originating from the caster.
+Magic Barrier,Grants a Magic Shield effect.
+Saurian Slide,Additional effect: Weakens attacks. Damage varies with TP.
+Infrasonics,Lowers the evasion of enemies within a fan-shaped area originating from the caster.
+Corrosive Ooze,Deals water damage to an enemy. Additional effect: Weakens attack and defense.
+Absolute Terror,Freezes target in fear.
+Geist Wall,Removes one beneficial magic effect from enemies within range.
+Uppercut,Damage varies with TP.
+Cocoon,Enhances defense.
+Benthic Typhoon,Lowers target's defense and magic defense. Damage varies with TP.
+Digest,Steals an enemy's HP. Ineffective against undead.
+Final Sting,Deals damage proportional to HP. Reduces HP to 1 after use. Damage varies with TP.
+Carcharian Verve,Enhances attack and magic attack. Reduces spell interruption rate.
+Delta Thrust,Delivers a threefold attack. Additional effect: Plague. Chance of effect varies with TP.
+Sweeping Gouge,Delivers a twofold attack. Additional effect: Weakens defense. Duration of effect varies with TP.
+Paralyzing Triad,Delivers a threefold attack. Additional effect: Paralysis. Damage varies with TP.
+1000 Needles,Shoots multiple needles at enemies within range.
+Bilgestorm,"Delivers an area attack. Additional effect duration varies with TP. Additional effect: Lowers attack, defense, and accuracy."
+Tourbillion,Delivers an area attack. Additional effect duration varies with TP. Additional effect: Weakens defense.
+Dimensional Death,Damage varies with TP.
+Sudden Lunge,"Damage varies with TP. Additional effect: ""Stun."""
+Demoralizing Roar,Weakens the attack of enemies within range.
+Harden Shell,Enhances defense.
+Sickle Slash,Deals critical damage. Chance of critical hit varies with TP.
+Sandspray,Blinds enemies within a fan-shaped area originating from the caster.
+Pollen,Restores HP.
+Sheep Song,Puts all enemies within range to sleep.
+Magnetite Cloud,Deals earth damage to enemies within a fan-shaped area originating from the caster. Additional effect: Weight.
+Hysteric Barrage,Delivers a fivefold attack. Damage varies with TP.
+Jet Stream,Delivers a threefold attack. Accuracy varies with TP.
+Radiant Breath,Deals light damage to enemies within a fan-shaped area of effect originating from the caster. Additional effect: Slow and Silence.
+Rending Deluge,Deals water damage to enemies within area of effect. Additional effect: Dispel.
+Uproot,Deals light damage to enemies within range. Also removes status ailments from caster.
+Poison Breath,Deals water damage to enemies within a fan-shaped area originating from the caster. Additional effect: Poison.
+Palling Salvo,Deals dark damage to enemies within range. Additional effect: Bio.
+Thermal Pulse,Deals fire damage to enemies within area of effect. Additional effect: Blindness.
+Embalming Earth,Deals earth damage to enemies within area of effect. Additional effect: Slow
+Mighty Guard,"Increases own defense, magic defenses, and attack speed, and gradually restores own HP."
+Vanity Dive,Damage varies with TP.
+Yawn,Puts all enemies within range to sleep.
+Blastbomb,Deals fire damage to enemies within area of effect. Additional Effect: Bind
+Chaotic Eye,Silences an enemy.
+Awful Eye,Lowers Strength of enemies within a fan-shaped area originating from the caster.
+Tenebral Crush,Deals dark damage to enemies within range. Additional effect: Weakens defense.
+Screwdriver,Deals critical damage. Chance of critical hit varies with TP.
+Cesspool,
+Frightful Roar,Weakens defense of enemies within range.
+Molting Plumage,Deals wind damage to enemies within a fan-shape in front of the caster.
+Thunderbolt,"Deals Lightning damage to enemies within the area of effect. Additional effect: ""Stun."""
+Terror Touch,Additional effect: Weakens attacks. Accuracy varies with TP.
+Water Bomb,Deals water damage to enemies within area of effect. Additional effect: Silence.
+Bad Breath,Deals earth damage that inflicts multiple status ailments on enemies within a fan-shaped area originating from the caster.
+Evryone. Grudge,Deals dark damage to an enemy.
+Sound Blast,Lowers Intelligence of enemies within range.
+Acrid Stream,Deals water damage to enemies within a fan-shaped area originating from the caster. Additional effect: Lowers target's magic defense.
+Asuran Claws,Delivers a sixfold attack. Accuracy varies with TP.
+Osmosis,Steals an enemy's HP and one beneficial status effect. Ineffective against undead.
+Lowing,Gives enemies within range a powerful disease that prevents recovery of HP and MP.
+Quadrastrike,Delivers a fourfold attack. Chance of critical hit varies with TP.
+Dark Orb,Deals dark elemental damage to an enemy.
+Disseverment,Delivers a fivefold attack. Additional effect: Poison. Accuracy varies with TP.
+Death Ray,Deals dark damage to an enemy.
+Dream Flower,Puts all enemies within range to sleep.
+Tempest Upheaval,Deals wind damage to enemies within area of effect.
+Helldive,Damage varies with TP.
+Self-Destruct,Sacrifices HP to damage enemies within range. Affects caster with Weakness.
+Occultation,Creates shadow images that each absorb a single attack directed at you.
+Exuviation,Restores HP and removes on detrimental magic effect.
+Frost Breath,Deals ice damage to enemies within a fan-shaped area originating from the caster. Additional effect: Paralysis.
+Light of Penance,"Reduces an enemy's TP. Additional effect: Blindness and ""Bind."""
+Jettatura,Enemies within a fan-shaped area originating from the caster are frozen with fear.
+Eyes On Me,Deals dark damage to an enemy.
+Spiral Spin,Additional effect: Lowers accuracy. Chance of effect varies with TP.
+Regurgitation,Deals Water damage to an enemy. Additional Effect: Bind.
+Blazing Bound,Deals fire damage to an enemy.
+Saline Coat,Saline Coat
+MP Drainkiss,Steals an enemy's MP. Ineffective against undead.
+Erratic Flutter,Increases attack speed.
